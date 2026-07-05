@@ -207,13 +207,13 @@ depending on your Python installation.
 ```
 ====== NEWS ARTICLE ANALYSIS ======
 
-Enter a word to search for: climate
+Enter a word to search for: Pie
 
-The word 'climate' appears 15 time(s).
+The word 'Pie' appears 21 time(s).
 The most common word is: the
-Average word length: 4.76
-Number of paragraphs: 18
-Number of sentences: 84
+Average word length: 5.22
+Number of paragraphs: 19
+Number of sentences: 48
 ```
 
 ---
